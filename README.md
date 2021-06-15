@@ -5,6 +5,7 @@ The genome annotation for bowfin (Amia calva), genome version AmiCal1 (NCBI acce
 
 
 Publication:
+
 Andrew W. Thompson, Michael Hawkins, Elise Parey, Dustin Wcisel, Tatsuya Ota, Kazuhiko Kawasaki, Emily Funk, Mauricio Losilla, Olivia Fitch, Qiaowei Pan, Romain Feron, Marine Milhes, Brett Racicot, Kevin Childs, Quenton Fontenot, Allyse Ferrara, Solomon David, Amy McCune, Alex Dornburg, Jeffrey Yoder, Yann Guiguen, Hugues Roest Crollius, Camille Berthelot, Matthew Harris, Ingo Braasch The genome of the bowfin (Amia calva) illuminates the developmental evolution of ray-finned fishes https://www.researchsquare.com/article/rs-92055/v1
 
 #######################################################
