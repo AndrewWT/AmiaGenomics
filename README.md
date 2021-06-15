@@ -11,8 +11,8 @@ Andrew W. Thompson, Michael Hawkins, Elise Parey, Dustin Wcisel, Tatsuya Ota, Ka
 
 Annotation Files:
 
-AMC.gff.bz2                 This is the bz2 zipped GFF file containing coodinates of MAKER Standard genes
+AMC.gff.bz2                   #This is the bz2 zipped GFF file containing coodinates of MAKER Standard genes
 
-AMC_transcripts.fasta.bz2   This is the bz2 zipped fasta file of transcripts from gene models as output by the MAKER Standard pipeline
+AMC_transcripts.fasta.bz2     #This is the bz2 zipped fasta file of transcripts from gene models as output by the MAKER Standard pipeline
 
-AMC_proteins.fasta.bz2      This is the bz2 zipped fasta file of proteins from gene models as output by the MAKER Standard pipeline
+AMC_proteins.fasta.bz2        #This is the bz2 zipped fasta file of proteins from gene models as output by the MAKER Standard pipeline
