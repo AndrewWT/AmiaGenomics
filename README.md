@@ -1,7 +1,7 @@
 # AmiaGenomics
 [![DOI](https://zenodo.org/badge/376894223.svg)](https://zenodo.org/badge/latestdoi/376894223)
 
-The genome annotation for the bowfin (Amia calva), genome version AmiCal1 (NCBI accession number: PESF00000000), contained in this repository was generated with MAKER2.31 by Andrew W. Thompson, Kevin Childs, and Ingo Braasch (Michigan State University). Annotations represent the ‘MAKER standard build’ genes (see Campbell et al., 2014, Current Protoc Bioinform 48:4.11.1-4.11.39).
+The genome annotation for the bowfin (Amia calva), genome version AmiCal1 (NCBI accession number: GCA_017591415.1), contained in this repository was generated with MAKER2.31 by Andrew W. Thompson, Kevin Childs, and Ingo Braasch (Michigan State University). Annotations represent the ‘MAKER standard build’ genes (see Campbell et al., 2014, Current Protoc Bioinform 48:4.11.1-4.11.39).
 
 
 Publication:
